@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kuldeepjeengar50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h-1EFAq3YgX7P0RKSUGJjpWEi3QHCtJM/view ]
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1IGhhq2Yll3gFpHrVGVsgiAIawsg3-G5X/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
