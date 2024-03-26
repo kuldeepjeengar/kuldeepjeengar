@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kuldeep jeengar</h1>
-<h3 align="center">A passionate Data Scientist and Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist and Ai/Ml Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepjeengar&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepjeengar" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/phoneclicker_" target="blank"><img src="https://img.shields.io/twitter/follow/phoneclicker_?logo=twitter&style=for-the-badge" alt="phoneclicker_" /></a> </p>
 
-- 🔭 I’m currently working on **Speech Recognition**
+- 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Librosa Library**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuldeepjeengar](https://github.com/kuldeepjeengar)
 
