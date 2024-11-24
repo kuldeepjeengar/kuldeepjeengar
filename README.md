@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/phoneclicker_" target="blank"><img src="https://img.shields.io/twitter/follow/phoneclicker_?logo=twitter&style=for-the-badge" alt="phoneclicker_" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **GenAi**
 
 - 🌱 I’m currently learning **Generative AI**
 
